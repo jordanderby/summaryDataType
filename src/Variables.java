@@ -17,28 +17,20 @@ public class Variables
         System.out.println("Summary of The Primitive Data Types");
         System.out.println("Byte: 8-bit signed two complements int");
         byte newByte = 1;
-        byte newByte2 = 2;
         System.out.println("Short: 16-bit signed twos complements int");
         short newShort = 1;
-        short newShort2 = 2;
         System.out.println("Int: 32-bit signed twos complements int");
         int newInt = 1;
-        int newInt2 = 2;
         System.out.println("Long: 64-bit signed two complements int");
         long newLong = 123L;
-        long newLong2 = 900L;
         System.out.println("Float: single-precision 32-bit floating point");
         float newFloat = 1.10f;
-        float newFloat2 = 1.11f;
         System.out.println("Double: double-precision 64-bit floating point");
         double newDouble = 1.1;
-        double newDouble2 = 1.2;
         System.out.println("Boolean: a statement that can only have two results, either true or false");
         boolean valid = true;
-        boolean result = true;
         System.out.println("Char: a single unit unicode character");
         char capitalA = 'A';
-        char capitalB = 'B';
     }
 
 }
