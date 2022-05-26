@@ -21,12 +21,12 @@ public class Variables
         short newShort = 1;
         System.out.println("Int: 32-bit signed twos complements int");
         int newInt = 1;
-        System.out.println("Long: 64-bit signed two complents int");
+        System.out.println("Long: 64-bit signed two complements int");
         long newLong = 123L;
         System.out.println("Float: single-precision 32-bit floating point");
-        float newFloat = 1.10;
+        float newFloat = 1.10f;
         System.out.println("Double: double-precision 64-bit floating point");
-        double newFloat = 1.1;
+        double newDouble = 1.1;
         System.out.println("Boolean: a statement that can only have two results, either true or false");
         boolean valid = true;
         System.out.println("Char: a single unit unicode character");
