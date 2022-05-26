@@ -22,15 +22,15 @@ public class Variables
         System.out.println("Int: 32-bit signed twos complements int");
         int newInt = 1;
         System.out.println("Long: 64-bit signed two complents int");
-        long newLong = 0L;
+        long newLong = 123L;
         System.out.println("Float: single-precision 32-bit floating point");
-        float newFloat = 1.0;
+        float newFloat = 1.10;
         System.out.println("Double: double-precision 64-bit floating point");
         double newFloat = 1.1;
         System.out.println("Boolean: a true or false condition");
         boolean valid = true;
         System.out.println("Char: a single unit unicode character");
-        char a;
+        char capitalA = 'A';
         
     }
 
