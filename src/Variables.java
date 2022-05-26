@@ -17,7 +17,7 @@ public class Variables
         System.out.println("Summary of The Primitive Data Types");
         System.out.println("Byte: 8-bit signed two complements int");
         byte newByte = 1;
-        bye newByte2 = 2;
+        byte newByte2 = 2;
         System.out.println("Short: 16-bit signed twos complements int");
         short newShort = 1;
         short newShort2 = 2;
