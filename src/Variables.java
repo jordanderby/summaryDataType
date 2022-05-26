@@ -27,7 +27,7 @@ public class Variables
         float newFloat = 1.10;
         System.out.println("Double: double-precision 64-bit floating point");
         double newFloat = 1.1;
-        System.out.println("Boolean: a true or false condition");
+        System.out.println("Boolean: a statement that can only have two results, either true or false");
         boolean valid = true;
         System.out.println("Char: a single unit unicode character");
         char capitalA = 'A';
