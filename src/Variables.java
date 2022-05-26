@@ -31,7 +31,6 @@ public class Variables
         boolean valid = true;
         System.out.println("Char: a single unit unicode character");
         char capitalA = 'A';
-        
     }
 
 }
